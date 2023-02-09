@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00 
+  
+[HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
+"AdvIntDriverEnabled2"=dword:00000001
+"Email"="november_ra1n@gmail.com"
+"FName"="november_ra1n"
+"InstallStatus"=dword:00000003
+"LName"="."
+"Serial"="R8F2Q-4KWT6-ZCD23-3N1M3"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]
+"AdvIntDriverEnabled2"=dword:00000001
+"Email"="november_ra1n@gmail.com"
+"FName"="november_ra1n"
+"InstallStatus"=dword:00000003
+"LName"="."
+"Serial"="R8F2Q-4KWT6-ZCD23-3N1M3"
